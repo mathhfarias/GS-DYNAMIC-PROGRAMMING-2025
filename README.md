@@ -90,5 +90,3 @@ O HeatMap demonstra como estruturas de dados podem ser aplicadas na vida real pa
 ## 🧾 Licença
 
 Uso acadêmico. Todos os direitos reservados aos autores.
-
-```

@@ -75,7 +75,7 @@ chamadas = [
 
 ## ✅ Como executar
 
-1. Baixe o notebook [`HeatMap_Projeto_Final_CORRIGIDO.ipynb`](./HeatMap_Projeto_Final_CORRIGIDO.ipynb)
+1. Baixe o notebook [`HeatMap_Projeto_Final_CORRIGIDO.ipynb`](./GS-DYNAMIC PROGRAMMING.ipynb)
 2. Execute em qualquer ambiente Jupyter, JupyterLab ou Google Colab
 3. Verifique os relatórios e resultados impressos diretamente no console
 
